@@ -72,7 +72,7 @@ def torr_download(url,minSize):
                 print "Error occured:",e
                 print "Downloading another file!"
                 continue
-    print ">>>>>>>>> Torrent downloaded at "+os.getcwd()+"\fname"
+    print ">>>>>>>>> Torrent downloaded at "+os.getcwd()+"\\"+fname"
 
     fpath=os.path.abspath(fname)
 
