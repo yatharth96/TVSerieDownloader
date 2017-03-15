@@ -4,15 +4,18 @@ Currently works only for windows.
 
 
 
-###Version
+### Version
  - Python 2.7.x
  
-###Requirements
+### Requirements
  - Beautiful Soup (```$pip install bs4 ```)
  - Requests (```$pip install requests```)
  - pyautogui (```$pip install pyautogui```)
  - Some proxy or VPN ( *Suggested* - [Psiphon](https://psiphon3.com/en/index.html))
 
 
-###TODO
+### TODO
 To make script compatible with MAC and Linux
+
+# Note
+Script depricated now due to shutdown of kickass.to
