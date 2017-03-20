@@ -18,4 +18,4 @@ Currently works only for windows.
 To make script compatible with MAC and Linux
 
 # Note
-Script depricated now due to shutdown of kickass.to
+Script depricated now due to shutdown of kickass.cr
